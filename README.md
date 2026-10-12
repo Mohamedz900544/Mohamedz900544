@@ -1,6 +1,6 @@
 # Mohamed Zalama
 
-AI-focused software engineer with hands-on experience building graduation-level systems across machine learning, backend APIs, mobile apps, and wearable integrations.
+AI-focused software engineer and React frontend developer with hands-on experience building graduation-level systems across machine learning, backend APIs, web interfaces, mobile apps, and wearable integrations.
 
 I recently worked on **KidGuard**, a smartwatch-based child safety monitoring system that combines Flutter, Wear OS, Node.js, MongoDB, and AI-based safety analysis.
 
@@ -10,6 +10,8 @@ I recently worked on **KidGuard**, a smartwatch-based child safety monitoring sy
 - Arabic NLP and safety classification
 - Audio and emotion analysis workflows
 - Backend API integration for AI services
+- React frontend development
+- Responsive and user-focused web interfaces
 - Full-stack product delivery with mobile and wearable clients
 
 ## Featured Project
@@ -47,6 +49,13 @@ Repository:
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Mobile and Wearable
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -60,6 +69,7 @@ I am improving my skills in:
 
 - Production-ready AI integrations
 - Backend architecture and API testing
+- React frontend architecture and reusable components
 - Mobile app performance and maintainability
 - Real-world safety and monitoring systems
 
