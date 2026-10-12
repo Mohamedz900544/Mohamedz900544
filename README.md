@@ -73,13 +73,6 @@ I am improving my skills in:
 - Mobile app performance and maintainability
 - Real-world safety and monitoring systems
 
-## GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedz900544&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedz900544&layout=compact&theme=default&hide_border=true)
-
 ## Contact
 
-- GitHub: [Mohamedz900544](https://github.com/Mohamedz900544)
-- Featured repository: [Graduation Project](https://github.com/Mohamedz900544/Graduation-Project)
+mail: mohamedz90054@gmail.com
