@@ -31,7 +31,7 @@ What the system includes:
 
 Repository:
 
-[Graduation Project](https://github.com/Mohamedz900544/Graduation-Project)
+[KidGuard Child Safety System](https://github.com/Mohamedz900544/kidguard-child-safety-system)
 
 ## Tech Stack
 
