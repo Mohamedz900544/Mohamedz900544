@@ -1,12 +1,14 @@
 # Mohamed Zalama
 
-AI-focused software engineer and React frontend developer with hands-on experience building graduation-level systems across machine learning, backend APIs, web interfaces, mobile apps, and wearable integrations.
+AI-focused software engineer and React frontend developer focused on integrating artificial intelligence into education and building technology that improves children's safety and quality of life.
 
-I recently worked on **KidGuard**, a smartwatch-based child safety monitoring system that combines Flutter, Wear OS, Node.js, MongoDB, and AI-based safety analysis.
+I recently worked on **KidGuard**, a smartwatch-based child safety monitoring system that combines Flutter, Wear OS, Node.js, MongoDB, and AI-based safety analysis to help parents monitor and protect children more effectively.
 
 ## Focus Areas
 
 - AI and machine learning experimentation
+- AI-powered education technology
+- Child safety and wellbeing systems
 - Arabic NLP and safety classification
 - Audio and emotion analysis workflows
 - Backend API integration for AI services
@@ -68,6 +70,7 @@ Repository:
 I am improving my skills in:
 
 - Production-ready AI integrations
+- AI solutions for education and child-focused safety products
 - Backend architecture and API testing
 - React frontend architecture and reusable components
 - Mobile app performance and maintainability
